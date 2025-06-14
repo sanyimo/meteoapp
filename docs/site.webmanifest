@@ -1,0 +1,29 @@
+{
+    "name": "MeteoApp",
+    "short_name": "MeteoApp",
+    "description": "Pronóstico del tiempo con animaciones dinámicas y diseño moderno y responsive.",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.webp",
+            "sizes": "192x192",
+            "type": "image/webp"
+        },
+        {
+            "src": "/android-chrome-512x512.webp",
+            "sizes": "512x512",
+            "type": "image/webp"
+        },
+        {
+            "src": "/apple-touch-icon.webp",
+            "sizes": "180x180",
+            "type": "image/webp",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#0ea5e9",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "start_url": "/",
+    "scope": "/",
+    "orientation": "portrait-primary"
+}

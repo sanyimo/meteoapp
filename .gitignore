@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Local env files
+*.local
+.env
+
+# Editor directories and files
+.vscode/
+!.vscode/extensions.json
+
+# Mac system files
+.DS_Store
+
+# No código fuente ni assets de desarrollo
+src/
+public/
+# Archivos de configuración (para evitar subir configs innecesarios)
+
+package*
+.eslint*
+.vercel.json
+*config*
